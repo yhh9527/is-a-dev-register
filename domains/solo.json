@@ -9,6 +9,5 @@
             "sneh.ns.cloudflare.com",
             "tim.ns.cloudflare.com"
         ]
-    },
-    "proxied": true
+    }
 }
