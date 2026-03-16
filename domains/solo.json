@@ -1,10 +1,14 @@
 {
-  "repo": "https://github.com/yhh9527/is-a-dev-register",
-  "owner": {
-    "email": "yhh.mail.9527@gmail.com",
-    "username": "yhh9527"
-  },
-  "records": {
-    "NS": ["sneh.ns.cloudflare.com", "tim.ns.cloudflare.com"]
-  }
+    "repo": "https://github.com/yhh9527/is-a-dev-register",
+    "owner": {
+        "email": "yhh.mail.9527@gmail.com",
+        "username": "yhh9527"
+    },
+    "records": {
+        "NS": [
+            "sneh.ns.cloudflare.com",
+            "tim.ns.cloudflare.com"
+        ]
+    },
+    "proxied": true
 }
